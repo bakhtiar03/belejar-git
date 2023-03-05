@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 fitur nomor 1
-=======
-edit repo 1
-nyoba aja
->>>>>>> fc70b3f505a44b0b4ef5d4dac2880df5b61dcfe8
+fitur nomer 2
+fitur nomer 3
+fitur nomer 4
